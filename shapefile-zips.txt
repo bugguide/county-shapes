@@ -1,0 +1,8 @@
+https://www2.census.gov/geo/tiger/TIGER2021/STATE/tl_2021_us_state.zip
+https://www2.census.gov/geo/tiger/TIGER2021/COUNTY/tl_2021_us_county.zip
+https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/lpr_000a21a_e.zip
+https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/lcd_000a21a_e.zip
+https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/lccs000a21a_e.zip
+https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/files-fichiers/ler_000a21a_e.zip
+https://www.geomatics.gov.nt.ca/Downloads/Vector/Boundaries/BNDCFG_ENRITI_ADMIN.zip
+https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_countries.zip
